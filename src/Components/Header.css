@@ -1,0 +1,7 @@
+.header__title {
+  flex: 1;
+  color: gold;
+  font-family: "Monteserrat";
+  font-weight: bold;
+  cursor: pointer;
+}
